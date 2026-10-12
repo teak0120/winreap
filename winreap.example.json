@@ -1,0 +1,11 @@
+{
+  "allow": [
+    ["my-watcher", "[\\\\/]tools[\\\\/]watch_logs\\.py"]
+  ],
+  "protect": [
+    "my-important-daemon"
+  ],
+  "replace_builtin": false,
+  "never_ran": true,
+  "log": "C:/Users/me/AppData/Local/winreap/winreap.log"
+}
